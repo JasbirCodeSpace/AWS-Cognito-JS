@@ -1,6 +1,3 @@
-# AWS-Cognito-Tutorials
-Code from Cognito Youtube Tutorials (Youtube: Nikhil Rao)
-
 SDK's Needed
 ------------
   - https://sdk.amazonaws.com/js/aws-sdk-2.7.16.min.js
